@@ -1,0 +1,173 @@
+<html>
+    <head>
+        <title>
+            My Resume
+        </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    html,body,h1,h2,h3,h4,h5,h6
+    {
+font-family:" Roboto",sans-serif
+    }
+</style>
+    </head>
+
+<body class="w3-grey">
+<!-- Page Container-->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+<!-- The Grid-->
+<div class="w3-row-padding">
+
+    <!--Left Column-->
+    <div class="w3-third">
+
+        <div class="w3-container">
+            <h2>Aishwarya Ravichandran</h2>
+            <p><i class="fa fa-graduation-cap fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Karur</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>ravichandranaishwarya89@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>9025162174</p>
+          <hr>      <!-- hr is used to form thin line-->
+       
+       <p class=""w3-large><b>
+        <i class="fa fa-asterisk fa-fw-margin-right w3-text-teal">
+
+        </i> Skills
+       </b></p>
+       <p>C</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-teal"
+                            style="width:80%">80%</div>
+                        
+                    </div>
+
+                    <p>Java</p>
+                    <div class="w3-light-grey w3-round-xlarge w3-small">
+                        <div class="w3-container w3-center w3-round-xlarge w3-teal"
+                        style="width:70%">70%</div>
+                   
+                </div> 
+
+                <p>My SQL</p>
+                <div class="w3-light-grey w3-round-xlarge w3-small">
+                    <div class="w3-container w3-center w3-round-xlarge w3-teal"
+                    style="width:80%">80%</div>
+                
+            </div> 
+
+
+            <p class=""w3-large><b>
+                <i class="fa fa-globe fa-fw-margin-right w3-text-teal">
+        
+                </i> Language
+               </b></p>
+               <p>Tamil</p>
+                                <div class="w3-light-grey w3-round-xlarge w3-small">
+                                    <div class="w3-container w3-center w3-round-xlarge w3-teal"
+                                    style="width:95%">95%</div>
+                                
+                            </div>
+        
+                            <p>English</p>
+                            <div class="w3-light-grey w3-round-xlarge w3-small">
+                                <div class="w3-container w3-center w3-round-xlarge w3-teal"
+                                style="width:90%">90%</div>
+                           
+                        </div> 
+                        
+        
+        </div>
+    </div>
+
+
+<!--End of Left COlumn-->
+
+
+<!--Start of right column-->
+<div class ="w3-twothird">
+    <div class="w3-text-black w3-card w3-light-grey  w3-margin -bottom">
+        <h2 class="w3-text-black w3-padding-16">
+            <i class="fa fa-suitcase fa-fw w3-margin-right
+            w3-xxlarge w3-text-teal"></i>Academic Perfomance</h2>
+        <h5>   <b> <i class="fa fa-book fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h5></b>
+            
+            <div class="W3-container">
+                <h5 class="w3-opacity">
+                    <b>Digital Notice Board System</b> </h5>
+            <h6 class="w3-text-teal">
+                <i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2023
+            </h6>
+            <p>Digital Notice Board is a notice board which is used to convey the information by displaying the data in a LED diplay .
+                The information will be sent to the notice board through  bluetooth. </p>
+            <hr>
+                </div>
+
+          
+                <div class="W3-container">
+                    <h5 class="w3-opacity">
+                        <b>Smart Irrigation System</b> </h5>
+                <h6 class="w3-text-teal">
+                    <i class="fa fa-calendar fa-fw w3-margin-right"></i>Nov 2023
+                </h6>
+                <p> Smart Irrigation System is the process which is used to identify the humidity level of the soil and air with the use of
+                    humidity sensor which scence the humidity level. If the soil and air try then motor will automativally pump the water out to the
+                    field.
+                </p>
+                <hr>
+                    </div>
+
+        </div>
+
+        <div class="w3-text-black w3-card w3-light-grey  w3-margin -bottom">
+            <h2 class="w3-text-black w3-padding-16">
+                <i class="fa fa-book fa-fw w3-margin-right
+                w3-xxlarge w3-text-teal"></i>Educational Qualification</h2>
+              
+                <div class="W3-container">
+                    <h5 class="w3-opacity">
+                        <b>Post graduation</b> </h5>
+                
+                <p> Bachelor of Engineering - Electronics And Communication
+                    Engineering at M. Kumarasamy College of Engineering
+                    with 7.93 CGPA (till 3rd Semester)
+                    <br>
+                    <h5 class="w3-opacity">
+                        <b>Schooling</b> </h5>
+                    Higher Secondary Leaving Certificate (2021) with 89.2 % at
+                    P.A.Vidhya Bhavan Higher Secondary School, Kakkavadi,
+                       Karur.
+                       <br>
+                       <br>
+                      
+                    Secondary School Leaving Certificate (2019) with 80.8% at
+                    P.A.Vidhya Bhavan Higher Secondary School, Kakkavadi,
+                    Karur.
+                </p>
+                <hr>
+                    </div>
+</div>
+</div>
+</div>
+<!--End of Right column-->
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+    <p>Find me on social media. </p>
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></i>
+    <p></p>
+
+</footer>
+
+
+
+</body>
+
+</html>
